@@ -1,0 +1,26 @@
+
+
+
+body,input,textarea{
+    background-color:#424242 ;
+    color: white;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+}
+
+input:hover,textarea:hover{
+    border-bottom: 1px solid blue ;
+}
+
+button#first:hover{
+    background-color: navy;
+    color: white;
+}
+
+button#second:hover{
+    background-color: silver;
+    color:white
+}
+
+
+
